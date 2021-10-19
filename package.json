@@ -1,5 +1,5 @@
 {
-  "name": "mongo-crud",
+  "name": "mongo-cruds",
   "version": "1.0.0",
   "description": "A module to use all mongo crud operations without repetative and redundant code",
   "main": "index.js",
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/vivek286/Mongo-Crud/issues"
   },
-  "homepage": "https://github.com/vivek286/Mongo-Crud#readme"
+  "homepage": "https://github.com/vivek286/Mongo-Crud#readme",
+  "dependencies": {
+    "mongodb": "^4.1.3"
+  }
 }
