@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/vivek286/Mongo-Crud#readme",
   "dependencies": {
-    "mongodb": "^4.1.3"
+    "mongodb": "^4.1.3",
+    "shadow_element": "^1.0.0"
   }
 }
