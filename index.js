@@ -46,7 +46,12 @@ async function mongo_crud(options,actions){
         if(actions!=null){
         var keys = Object.keys(actions);
         for(var i=0;i<keys.length;i++){
-      var obj =await sheet[keys[i]]().toArray();
+            var obj;
+            if(actions[keys[i]]==""){
+       obj=await sheet[keys[i]]().toArray();}
+       else{
+        obj=await sheet[keys[i]](actions[keys[i]]);
+       }
       result[keys[i]]=obj;
         }
         // console.log(keys);
