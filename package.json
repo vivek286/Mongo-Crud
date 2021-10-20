@@ -1,6 +1,6 @@
 {
   "name": "mongo-cruds",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A module to use all mongo crud operations without repetative and redundant code",
   "main": "index.js",
   "scripts": {
