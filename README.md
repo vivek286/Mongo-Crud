@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="" rel="noopener" target="_blank"><img width="500" height="300" src="https://user-images.githubusercontent.com/68116663/138152771-4c4b1bc5-86fa-4c67-aed6-abfc7f64b9e8.jpeg" alt="mongo-crud logo"></a></p>
+  <a href="https://www.npmjs.com/package/mongo-cruds" rel="noopener" target="_blank"><img width="500" height="300" src="https://user-images.githubusercontent.com/68116663/138152771-4c4b1bc5-86fa-4c67-aed6-abfc7f64b9e8.jpeg" alt="mongo-crud logo"></a></p>
 </p>
 
 <div align="center">
 
-[**Mongo-Crud**]() is a CRUD operation library library which makes it extremely easy to use multiple crud operation on your web apps. It is highly customizable and enables you to stack multiple quries on top of one another.
+[**Mongo-Crud**](https://www.npmjs.com/package/mongo-cruds) is a CRUD operation library library which makes it extremely easy to use multiple crud operation on your web apps. It is highly customizable and enables you to stack multiple quries on top of one another.
 </br>
 
 
